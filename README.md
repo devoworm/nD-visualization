@@ -19,10 +19,10 @@ JupyterLab   [link](https://anaconda.org/conda-forge/jupyterlab)
 
 ## Specific files of interest:  
 
-[3D-embryo-network.png](https://github.com/devoworm/nD-visualization/blob/master/3-D-embryo-network.png)  
+[3D Embryo Network in Spatial Context](https://github.com/devoworm/nD-visualization/blob/master/3-D-embryo-network.png)  
 Spatialization scheme for half of early embryo (16-cell stage with ancestors, ancestral cell bodies not shown).  
 
-[embryo-transforms.md](https://github.com/devoworm/nD-visualization/blob/master/embryo-transforms.md)  
+[SciLab Code for Embryo Transforms](https://github.com/devoworm/nD-visualization/blob/master/embryo-transforms.md)  
 Contains code for circular band and saddle mappings.  
 
 

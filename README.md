@@ -11,6 +11,12 @@ Plotly   [link](https://plot.ly/python/)
 
 MatPlotLib   [link](https://en.wikipedia.org/wiki/Matplotlib)
 
+SciLab (can use MatPlotLib within this environment)   [link](https://www.scilab.org/)
+
+RStudio (can use Plotly within this environment   [link](https://www.rstudio.com/)
+
+JupyterLab   [link](https://anaconda.org/conda-forge/jupyterlab)
+
 ## Specific files of interest:  
 
 3D-embryo-network.png  

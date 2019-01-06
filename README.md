@@ -19,11 +19,15 @@ JupyterLab   [link](https://anaconda.org/conda-forge/jupyterlab)
 
 ## Specific files of interest:  
 
-3D-embryo-network.png  
+[3D-embryo-network.png](https://github.com/devoworm/nD-visualization/blob/master/3-D-embryo-network.png)
 Spatialization scheme for half of early embryo (16-cell stage with ancestors, ancestral cell bodies not shown).  
 
-embryo-transforms.md  
+[embryo-transforms.md](https://github.com/devoworm/nD-visualization/blob/master/embryo-transforms.md)
 Contains code for circular band and saddle mappings.  
+
+
+[_C. elegans_ embryo embedded in a saddle space](https://github.com/devoworm/nD-visualization/blob/master/C-elegans-embryo-647-cell--saddle-space-AB-only-vs-whole-embryo-3.png)
+A saddle map of 647 cells that occur in _C. elegans_ embryo throughout embryogenesis, AB sublinage (red) and all cells (red and blue).  
 
 
 

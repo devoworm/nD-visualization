@@ -1,9 +1,9 @@
-Julia set mapping:
+### Julia set mapping:
 
-$x' = sin(x)^2 + r$
+_x'_ = sin(_x_)^2^ + _r_
 
-$y' = sin(y)^2 + r$
+_y'_ = sin(_y_)^2^ + _r_
 
-$z' = sin(z)^2 + r$     where r = 0.3
+_z'_ = sin(_z_)^2^ + r$     where _r_ = 0.3
 
 
